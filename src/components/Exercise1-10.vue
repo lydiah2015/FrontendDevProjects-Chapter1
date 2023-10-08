@@ -52,6 +52,10 @@ export default {
         </ul>
     </div>
 </template>
-<!-- <stye>
+<!-- <style lang="stylus">
+ul
+  color:#2c3e50;
+    > h2
+    color:#22cc33;
 
-</stye> -->
+</style> -->

@@ -9,6 +9,9 @@
 <Exercise8 />
 <Exercise9 />
 <Exercise10 />
+<Exercise11 />
+<Exercise12 />
+<Exercise13 />
 
 </template>
 <script>
@@ -22,6 +25,9 @@ import Exercise7 from './components/Exercise1-07.vue'
 import Exercise8 from './components/Exercise1-08.vue'
 import Exercise9 from './components/Exercise1-09.vue'
 import Exercise10 from './components/Exercise1-10.vue'
+import Exercise11 from './components/Exercise1-11.vue'
+import Exercise12 from './components/Exercise1-12.vue'
+import Exercise13 from './components/Exercise1-13.vue'
 
 
 export default {
@@ -36,9 +42,12 @@ components: {
   Exercise8,
   Exercise9,
   Exercise10,
+  Exercise11,
+  Exercise12,
+  Exercise13,
 }
 }
 </script>
-<!-- <style>
-
-</style> -->
+<style lang="scss">
+@import './styles/global.scss'
+</style>
