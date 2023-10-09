@@ -1,6 +1,15 @@
-# exercise1.01
+# Chapter 1.01
 
 This template should help get you started developing with Vue 3 in Vite.
+
+## Lessong Learnt In Chapter1
+-Creating and running a vue project
+-Using CDN
+-Create Basic Vue Components
+-Using vue's unique directives
+-Looping Over data and Controlling DOM states
+-Data props and v-model binding
+-Vue Lifecycle
 
 ## Recommended IDE Setup
 
